@@ -11,6 +11,12 @@
             "version": "1.1.0",
             "description": "Translate channel messages automatically with webhook-based sync for edits and deletes.",
             "author": "codex"
+        },
+        {
+            "name": "role-picker",
+            "version": "1.0.0",
+            "description": "Post a message with buttons that let members give themselves roles (e.g. language roles).",
+            "author": "claude"
         }
     ]
 }
