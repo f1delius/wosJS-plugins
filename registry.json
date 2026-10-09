@@ -14,7 +14,7 @@
         },
         {
             "name": "role-picker",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "description": "Post a message with buttons that let members give themselves roles (e.g. language roles).",
             "author": "claude"
         }
